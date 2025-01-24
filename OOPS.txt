@@ -1,0 +1,16 @@
+                                               OOPS
+Inhevitance
+Polymorphiism
+Excapsulatuin
+Abstraction
+                   EXcapsulation
+Hiding of non essential features
+
+                   Abstraction
+Showing of essential features
+Outside the class
+                  Access modifiers
+Bublic
+protected
+private
+Default
