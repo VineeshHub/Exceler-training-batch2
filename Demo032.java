@@ -1,7 +1,7 @@
 // Demo032 - wap to create a Hashset to store 
 // Homogeneous string values
 import java.util.HashSet;
-class HashSetDemo2 {
+class HashSetDemo032 {
 //HashSet does not allow duplicates and it does 
 // not guarantee of the 
 //order in which the elements are added...
