@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class demo002{
+public class Demo002{
     // Method to find the greatest of two numbers
     public static int greatestOfTwo(int num1, int num2) {
         if (num1 > num2) {
