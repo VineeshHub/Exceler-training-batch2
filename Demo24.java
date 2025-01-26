@@ -25,7 +25,7 @@ class Array{
         }
     }
 }
-class Demo024{
+class Demo24{
     public static void main(String[] args){
         Array a = new Array();
         a.array1();
