@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class demo003 {
+public class Demo003 {
 
     // Method to find the greatest of three numbers
     public static int greatestOfThree(int num1, int num2, int num3) {
