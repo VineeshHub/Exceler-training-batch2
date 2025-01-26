@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-class HashSetDemo1 {
+class HashSetDemo031 {
     void HSetMethod() {
         // We can add any type of element here...
         HashSet<Object> hashSet = new HashSet<>(); // Use generics for type safety
