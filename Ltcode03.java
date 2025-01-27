@@ -1,4 +1,4 @@
-public class Ltcode003 {
+public class Ltcode03 {
     public class Solution {
         public int myAtoi(String s) {
             // Step 1: Strip leading whitespaces
