@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Demo029{
+class Demo29{
     ArrayList<String> list = new ArrayList<String>();
     void Add(String name){
         list.add(name);
