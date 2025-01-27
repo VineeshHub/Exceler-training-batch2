@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Demo045{
+class Demo45{
     public static void main(String[] args){
         
         System.out.println("Enter the values of x and y: ");
