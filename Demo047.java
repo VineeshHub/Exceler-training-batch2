@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Demo47{
+class Demo047{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the values of x: ");
