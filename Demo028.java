@@ -12,7 +12,7 @@ class Fibonacci {
     }
 }
 
-public class Demo28{
+public class Demo028{
     public static void main(String[] args) {
         System.out.print("Enter the position of the Fibonacci number: ");
         Scanner sc = new Scanner(System.in);
