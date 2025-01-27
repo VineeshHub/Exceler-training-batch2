@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Demo038 {
+public class Demo38 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class Demo038 {
         int num3 = scanner.nextInt();
 
         System.out.print("Enter the fourth number: ");
-        int num4 = scanner.nextInt();
+        int num4 = scanner.nextInt()
 
         int largest = num1;
         
