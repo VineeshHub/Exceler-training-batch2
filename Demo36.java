@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Demo036 {
+public class Demo36 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
