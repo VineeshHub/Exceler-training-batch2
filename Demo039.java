@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Demo39 {
+public class Demo039 {
     public static void main(String[] args) {
         // Create a scanner object for user input
         Scanner scanner = new Scanner(System.in);
@@ -13,7 +13,7 @@ public class Demo39 {
         if (Character.isLowerCase(ch)) {
             System.out.println(ch + " is a lowercase letter.");
         } else if (Character.isUpperCase(ch)) {
-            System.out.println(ch + " is an uppercase letter.");
+            System.out.println(ch + " is an uppercase 0.");
         } else if (Character.isDigit(ch)) {
             System.out.println(ch + " is a digit.");
         } else {
