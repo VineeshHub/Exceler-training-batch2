@@ -1,4 +1,4 @@
-public class Ltcode02 {
+public class Ltcode002 {
     public class Solution {
         public int reverse(int x) {
             int reversed = 0;
