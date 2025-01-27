@@ -1,4 +1,4 @@
-public class LT004 {
+public class LTCode04 {
     public static class ListNode {
         int val;
         ListNode next;
