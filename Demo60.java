@@ -1,4 +1,4 @@
-public class Demo060 {
+public class Demo60 {
     public static void main(String[] args) {
         int n = 20; 
         long firstTerm = 0, secondTerm = 1;
