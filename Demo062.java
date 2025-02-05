@@ -1,4 +1,4 @@
-public class Demo62 {
+public class Demo062 {
     public static void main(String[] args) {
         // Sample array
         int[] arr = {10, 20, 30, 40, 50};
